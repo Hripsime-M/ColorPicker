@@ -141,7 +141,6 @@ void init(void) {
 /// during the mouse move
 void drawPoints() {
   glBegin( GL_POINTS );
-  printf("Count: %d\n", z);
   for (int i = 0; i < z; i++) {
     Point* p = points[i];
     setColor(p->rgb);
