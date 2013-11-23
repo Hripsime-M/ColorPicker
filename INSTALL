@@ -1,0 +1,5 @@
+
+To install the color picker tool, use CMake gui or run the 
+following command in terminal:
+
+cmake . && make 

@@ -1,0 +1,34 @@
+
+---------------------
+  About the Project
+---------------------
+
+This project represents a simple HSV color picker and drawing tool.
+
+For the details of usage see the usage section below.
+
+--------------------
+Building the Project
+--------------------
+
+See INSTALL file.
+
+--------------------
+       Usage
+--------------------
+
+To pick a color please select a hue and saturation parameters by clicking
+on the desired point on the hue and saturation circle and value parameter
+by clicking to the value rectangle. The resulting color will be shown on
+the top right corner of the window. 
+
+The remaining part of the window is intended for drawing. To clear the drawing
+you can press the space button on your keyboard.
+
+To close the window use the ESC button.
+
+--------------------
+      Author
+--------------------
+
+Hripsime Matevosyan - hripsime.m@gmail.com
