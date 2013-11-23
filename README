@@ -14,6 +14,17 @@ Building the Project
 See INSTALL file.
 
 --------------------
+Package Dependencies
+--------------------
+
+To successfully make the package you will need to install freeglut,
+libxmu, libxi. 
+
+If you're using a Linux system, type in terminal
+
+    sudo apt-get install libxmu-dev libxi-dev freeglut3-dev 
+
+--------------------
        Usage
 --------------------
 
