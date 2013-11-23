@@ -8,21 +8,21 @@ This project represents a simple HSV color picker and drawing tool.
 For the details of usage see the usage section below.
 
 --------------------
-Building the Project
---------------------
-
-See INSTALL file.
-
---------------------
 Package Dependencies
 --------------------
 
-To successfully make the package you will need to install freeglut,
+To successfully make the package you will need to install cmake, freeglut,
 libxmu, libxi. 
 
 If you're using a Linux system, type in terminal
 
     sudo apt-get install libxmu-dev libxi-dev freeglut3-dev 
+
+--------------------
+Building the Project
+--------------------
+
+See INSTALL file.
 
 --------------------
        Usage
