@@ -3,7 +3,7 @@ PROJECT( color_picker )
 SET( PROGRAMS main )
 
 FIND_PACKAGE( GLUT )
-FIND_PACKAGE( OPENGL )
+FIND_PACKAGE( OpenGL )
 
 FOREACH( program ${PROGRAMS} )
   ADD_EXECUTABLE( ${program} ${program}.cpp )
